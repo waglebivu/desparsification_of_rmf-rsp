@@ -6,7 +6,6 @@ This Python script reads and processes a FITS response file to extract and despa
 
 - Reads energy bounds and channel information from a FITS file.
 - Desparsifies the response matrix from compressed data format.
-- Handles common errors such as file not found, missing extensions, or invalid indices.
 
 ## Requirements
 
