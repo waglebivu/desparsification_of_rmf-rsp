@@ -1,6 +1,6 @@
 # FITS Response Matrix Reader
 
-This Python script reads and processes a FITS response file to extract and desparsify the response matrix along with energy bounds and channel information.
+This Python script reads and processes a FITS response file to extract and desparsify the response matrix of x-ray observation along with energy bounds and channel information.
 
 ## Features
 
